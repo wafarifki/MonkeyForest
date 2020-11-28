@@ -2,6 +2,9 @@
 Kali ini saya mencoba slicing design Dari Mas 
 <a target="_blank" href="https://www.facebook.com/astikadevil/">Astika Yasa</a> 
 menjadi sebuah website statis yang indah.
+<br>
+<a target="_blank" href="https://wafarifki.github.io/MonkeyForest">Klik disini untuk melihat demo</a>
+<br>
 
 ![Screenshot](https://github.com/wafarifki/MonkeyForest/blob/main/assets/image/Screenshoot.PNG)
 
