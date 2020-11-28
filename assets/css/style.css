@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: VagRoundedBold;
-    src: url(assets/font/VAGRoundedStd-Bold_0.otf);
+    src: url("assets/font/VAGRoundedStd-Bold_0.otf");
 }
 
 body {
@@ -24,7 +24,7 @@ body {
     width: 94%;
     height: 80vh;
     background: #f5f5f5;
-    background-image: url(assets/image/monkeyforest.png);
+    background-image: url("assets/image/monkeyforest.png");
     background-position: right;
     background-size: 110vh;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ body {
         width: 94%;
         height: 80vh;
         background: #f5f5f5;
-        background-image: url(assets/image/mobilebg.jpg);
+        background-image: url("assets/image/mobilebg.jpg");
         background-position: center;
         background-size: 115%;
         background-repeat: no-repeat;
