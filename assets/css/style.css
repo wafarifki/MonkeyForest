@@ -64,14 +64,14 @@ body {
 #monkeylink2 {
     font-size: 20px;
     font-weight: bold;
-    color: #f5f5f5;
+    color: #333;
     font-family: VAgRoundedBold;
     border-bottom: 2px solid transparent;
 }
 
 #monkeylink2:hover {
     cursor: pointer;
-    color: #dbd9d9;
+    color: white;
     border-bottom: 2px solid #dbd9d9;
 }
 
@@ -110,6 +110,7 @@ body {
     cursor: pointer;
     background: rgba(116, 188, 102, 1);
     background: linear-gradient(80deg, rgba(116, 188, 102, 1) 100%, rgba(157, 206, 98, 1) 100%);
+    text-decoration: none;
 }
 
 
